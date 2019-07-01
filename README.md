@@ -125,10 +125,10 @@ https://l2wiki.com/classic/Hot_Springs
 Hi,Binding cubic (warlock) does not work. 
 This cubic works rly rarely, moreover it didn't work even once (I wasn't able to paralyze even monsters).(IT IS WORKING CORRECTLY)
 
-37 Anchor - Summon Binding Cubic
+37. Anchor - Summon Binding Cubic
 hello staff of lionna the sistem of Summon Binding Cubic in the mage type warlock don't work and the toggle skill power supremacy don't give the stats to the summon (IT IS WORKING CORRECTLY)
 
-38 Skill Spirit Sharing Bugged Hello. 
+38. Skill Spirit Sharing Bugged Hello. 
 I'm a ES and this skill seems bugged. It gives the same P.attack while using no weapon or having one. (IT IS WORKING CORRECTLY)
 
 39. Deadly Strike (SwS/BD Skill) bug
@@ -152,11 +152,11 @@ https://l2wiki.com/classic/Force_Barrier_-_Grand_Khavatari
 
 this sreenshot from Lionna: lvl 1 vortex slug https://ibb.co/JdXscgP and lvl 2  https://ibb.co/3R0VPCZ must be 205 power. (IT IS WORKING CORRECTLY)
 
-44 - Radiant Spirit's Varnish dont work Hi, i can not use Radiant Spirit's Varnish, do not even open the enchantment window.
+44. Radiant Spirit's Varnish dont work Hi, i can not use Radiant Spirit's Varnish, do not even open the enchantment window.
 https://l2wiki.com/classic/Radiant_Spirit's_Varnish pls fix.
 (WITH PROBLEM) - https://imgur.com/a/Tt5L4uf
 
-45 deadly strike Hello the skill deadly strike for sws doesnt work with blunt weapons ,the skills become colorfull like you can use it but nop.
+45. deadly strike Hello the skill deadly strike for sws doesnt work with blunt weapons ,the skills become colorfull like you can use it but nop.
 text is not correct for this skill (dual sword requires) you can use it with blunt in official server.
 thx (WITH PROBLEM) - https://imgur.com/a/M2jgu1x
 
